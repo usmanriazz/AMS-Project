@@ -1,0 +1,4 @@
+OOPS Marks =43
+DLD Marks =12
+DB Marks =23
+MVC Marks =32

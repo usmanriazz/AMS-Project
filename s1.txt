@@ -1,0 +1,6 @@
+Batch      : DS-01
+ID         : 241201055
+Department : Computer Science
+Course     : Data Science
+Name       : Bilal Ahmed Khan
+
